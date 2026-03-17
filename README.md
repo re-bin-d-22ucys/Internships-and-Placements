@@ -5,6 +5,7 @@
 </p>
 
 ## Internships and Placements
+![](https://img.shields.io/badge/Last_Updated-17_Mar_2026_16:10-purple)
 
 |     Roll No.     |         Name        |       Interns @     |         Placed @      |  Offer Letters Received | 
 |:----------------:|:--------------------|---------------------|-----------------------|:-----------------------:|
@@ -40,7 +41,7 @@
 | CB.EN.U4CYS22032 | KARRI JEESHITHA     |                     |                       |                        | 
 | CB.EN.U4CYS22033 | KRISHNAMOORTHI P L  |     Honeywell       |                       |           ✅            |   
 | CB.EN.U4CYS22034 | KARTHICK M          |                     |                       |                        | 
-| CB.EN.U4CYS22035 | KAUSHIK M           |      NI             |       TCS             |           ✅            | 
+| CB.EN.U4CYS22035 | KAUSHIK M           |                   |       TCS             |           ✅            | 
 | CB.EN.U4CYS22036 | LOGESH R            |                     |                       |                        | 
 | CB.EN.U4CYS22037 | LALITHA K           | Cognizant & **Cloudfare**  |      GEP              |           ✅            | 
 | CB.EN.U4CYS22038 | MAREDDY SAI TEJAS   |                     |                       |                        | 
@@ -50,33 +51,33 @@
 | CB.EN.U4CYS22042 | N MEERA             |                     |                       |                        | 
 | CB.EN.U4CYS22043 | NAMITHA SUDHISHKUMAR NAIR |               |                       |                        | 
 | CB.EN.U4CYS22044 | NAVARANG C D        |                     |                       |                        | 
-| CB.EN.U4CYS22045 | NEDURUMALLI VEDVARSHITH REDDY |    NI     |      TCS              |          ✅            |      
+| CB.EN.U4CYS22045 | NEDURUMALLI VEDVARSHITH REDDY |         |      TCS              |          ✅            |      
 | CB.EN.U4CYS22046 | PARTHIV KUMAR NIKKU |    SSiT             |      RSM, India       |           ✅            | 
 | CB.EN.U4CYS22047 | PILLIMETLA VAMSI    |                     |                       |                        | 
 | CB.EN.U4CYS22048 | PALAKURTY ROOPAK NAGA VENKATA SREE SAI |   Cognizant   |                       |          ✅          | 
 | CB.EN.U4CYS22049 | PAVAN SHANMUKHA MADHAV GUNDA |  Medha Servo Drives  |   RSM, India   |           ✅            | 
 | CB.EN.U4CYS22050 | R M NAREN ADITHYA   |                     |                       |                        | 
 | CB.EN.U4CYS22051 | R SRUTHI            |                     |                       |                        | 
-| CB.EN.U4CYS22052 | RAHUL SHANKAR V     |                     |       IBM             |                        | 
+| CB.EN.U4CYS22052 | RAHUL SHANKAR V     |                     |       IBM, India      |                        | 
 | CB.EN.U4CYS22053 | RATHNESH R          |                     |                       |                        | 
 | CB.EN.U4CYS22055 | RAMRAJ S            |                     |                       |                        | 
 | CB.EN.U4CYS22056 | REDDICHERLA THANUJ  |     Honeywell       |                       |           ✅            |              
-| CB.EN.U4CYS22057 | S MOHANA VAMSI      |     Amazon          |       IBM             |           ✅            |       
-| CB.EN.U4CYS22059 | SARIDE SOMESWARA SAI SRI CHAKRI |             |                   |                        | 
+| CB.EN.U4CYS22057 | S MOHANA VAMSI      |     Amazon          |       IBM, India      |           ✅            |       
+| CB.EN.U4CYS22059 | SARIDE SOMESWARA SAI SRI CHAKRI |   NIQ   |                  |           ✅            |      
 | CB.EN.U4CYS22060 | SHREE HARINI T      |    IBM, India       |     IBM, India        |                        | 
-| CB.EN.U4CYS22061 | SREE SHARVESH S S   |                     |                       |                        | 
+| CB.EN.U4CYS22061 | SREE SHARVESH S S   |    Amazon, India    |                       |         ✅            |      
 | CB.EN.U4CYS22062 | SHRAVAN KRISHNAN G  |    KPMG             |                       |           ✅            | 
 | CB.EN.U4CYS22063 | VAJJULA SATYA SIDDARDHA |   Infosys        |                      |           ✅            |  
-| CB.EN.U4CYS22064 | YALLANURU KISHAN SAI |        NI          |        TCS            |           ✅            | 
+| CB.EN.U4CYS22064 | YALLANURU KISHAN SAI |                  |        TCS            |           ✅            | 
 | CB.EN.U4CYS22065 | KOLLURU SAI SUPRAJ  |    Actualize        |                       |                          |
 | CB.EN.U4CYS22066 | S PARVATHI          |    CISA, Amrita     |                       |           ✅            | 
 | CB.EN.U4CYS22067 | AMITA NARAYANAN KUTTY |   Honeywell       |                       |           ✅            |      
 | CB.EN.U4CYS22068 | MUKESH R            |   Zenoti            |                       |           ✅            |   
-| CB.EN.U4CYS22069 | MOTHE ANURAG REDDY  |       NI            |       EY              |                         | 
+| CB.EN.U4CYS22069 | MOTHE ANURAG REDDY  |                   |       EY              |                         | 
 | CB.EN.U4CYS22070 | NANDANA MAHESH      |                     |    RSM, India         |           ✅            | 
-| CB.EN.U4CYS22071 | ANAGH SHAJI PLAMOOTTUKADA |   NI          |    H & R Block        |           ✅            |     
+| CB.EN.U4CYS22071 | ANAGH SHAJI PLAMOOTTUKADA |             |    H & R Block        |           ✅            |     
 | CB.EN.U4CYS22072 | RUDRA SRI LAKSHMI   |                     |                       |                        | 
 | CB.EN.U4CYS22073 | VISHAL R S          |                     |                       |                        | 
 | CB.EN.U4CYS22074 | B VIJAY NISHANTH    |                     |                       |                        | 
 | CB.EN.U4CYS22075 | VISHAL S            |                     |                       |                        | 
-| CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN |       IBM         |                       |                        | 
+| CB.EN.U4CYS22076 | TANGELLA SREE CHANDAN |     IBM, India    |      IBM, India       |                        | 
