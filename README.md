@@ -42,7 +42,7 @@
 | CB.EN.U4CYS22034 | KARTHICK M          |                     |                       |                        | 
 | CB.EN.U4CYS22035 | KAUSHIK M           |      NI             |       TCS             |           ✅            | 
 | CB.EN.U4CYS22036 | LOGESH R            |                     |                       |                        | 
-| CB.EN.U4CYS22037 | LALITHA K           | CTS, **Cloudfare**  |      GEP              |           ✅            | 
+| CB.EN.U4CYS22037 | LALITHA K           | Cognizant & **Cloudfare**  |      GEP              |           ✅            | 
 | CB.EN.U4CYS22038 | MAREDDY SAI TEJAS   |                     |                       |                        | 
 | CB.EN.U4CYS22039 | MARRI SANJU         |                     |                       |                        | 
 | CB.EN.U4CYS22040 | MIDHRUJAYAN K       |                     |                       |                        | 
@@ -53,7 +53,7 @@
 | CB.EN.U4CYS22045 | NEDURUMALLI VEDVARSHITH REDDY |    NI     |      TCS              |          ✅            |      
 | CB.EN.U4CYS22046 | PARTHIV KUMAR NIKKU |    SSiT             |      RSM, India       |           ✅            | 
 | CB.EN.U4CYS22047 | PILLIMETLA VAMSI    |                     |                       |                        | 
-| CB.EN.U4CYS22048 | PALAKURTY ROOPAK NAGA VENKATA SREE SAI |                      |                       |                        | 
+| CB.EN.U4CYS22048 | PALAKURTY ROOPAK NAGA VENKATA SREE SAI |   Cognizant   |                       |          ✅          | 
 | CB.EN.U4CYS22049 | PAVAN SHANMUKHA MADHAV GUNDA |  Medha Servo Drives  |   RSM, India   |           ✅            | 
 | CB.EN.U4CYS22050 | R M NAREN ADITHYA   |                     |                       |                        | 
 | CB.EN.U4CYS22051 | R SRUTHI            |                     |                       |                        | 
