@@ -5,7 +5,7 @@
 </p>
 
 ## Internships and Placements
-![](https://img.shields.io/badge/Last_Updated-17_Mar_2026_16:10-purple)
+![](https://img.shields.io/badge/Last_Updated-18_Mar_2026_13:25-purple)
 
 |     Roll No.     |         Name        |       Interns @     |         Placed @      |  Offer Letters Received | 
 |:----------------:|:--------------------|---------------------|-----------------------|:-----------------------:|
@@ -37,7 +37,7 @@
 | CB.EN.U4CYS22027 | HARSHITH GANGISETTY |     Honeywell       |                       |           ✅            |    
 | CB.EN.U4CYS22028 | HEMANTH KUMAAR J P  |    EPAM             |                       |           ✅            | 
 | CB.EN.U4CYS22030 | JOSE ROHIT M        |                     |                       |                        | 
-| CB.EN.U4CYS22031 | JOSHUA ANTO A       |                     |                       |                        | 
+| CB.EN.U4CYS22031 | JOSHUA ANTO A       |  Palo Alto Networks |                       |           ✅            | 
 | CB.EN.U4CYS22032 | KARRI JEESHITHA     |                     |                       |                        | 
 | CB.EN.U4CYS22033 | KRISHNAMOORTHI P L  |     Honeywell       |                       |           ✅            |   
 | CB.EN.U4CYS22034 | KARTHICK M          |                     |                       |                        | 
@@ -56,13 +56,13 @@
 | CB.EN.U4CYS22047 | PILLIMETLA VAMSI    |                     |                       |                        | 
 | CB.EN.U4CYS22048 | PALAKURTY ROOPAK NAGA VENKATA SREE SAI |   Cognizant   |                       |          ✅          | 
 | CB.EN.U4CYS22049 | PAVAN SHANMUKHA MADHAV GUNDA |  Medha Servo Drives  |   RSM, India   |           ✅            | 
-| CB.EN.U4CYS22050 | R M NAREN ADITHYA   |                     |                       |                        | 
-| CB.EN.U4CYS22051 | R SRUTHI            |                     |                       |                        | 
+| CB.EN.U4CYS22050 | R M NAREN ADITHYA   |  Plum, LTM          |                       |          ✅            |                
+| CB.EN.U4CYS22051 | R SRUTHI            |  Skypoint           |                       |                        | 
 | CB.EN.U4CYS22052 | RAHUL SHANKAR V     |                     |       IBM, India      |                        | 
 | CB.EN.U4CYS22053 | RATHNESH R          |                     |                       |                        | 
-| CB.EN.U4CYS22055 | RAMRAJ S            |                     |                       |                        | 
+| CB.EN.U4CYS22055 | RAMRAJ S            |    Amazon, India    |      C-DOT            |           ✅            |      
 | CB.EN.U4CYS22056 | REDDICHERLA THANUJ  |     Honeywell       |                       |           ✅            |              
-| CB.EN.U4CYS22057 | S MOHANA VAMSI      |     Amazon          |       IBM, India      |           ✅            |       
+| CB.EN.U4CYS22057 | S MOHANA VAMSI      |     Amazon, India   |       IBM, India      |           ✅            |       
 | CB.EN.U4CYS22059 | SARIDE SOMESWARA SAI SRI CHAKRI |   NIQ   |                  |           ✅            |      
 | CB.EN.U4CYS22060 | SHREE HARINI T      |    IBM, India       |     IBM, India        |                        | 
 | CB.EN.U4CYS22061 | SREE SHARVESH S S   |    Amazon, India    |                       |         ✅            |      
