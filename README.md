@@ -5,7 +5,7 @@
 </p>
 
 ## Internships and Placements
-![](https://img.shields.io/badge/Last_Updated-18_Mar_2026_13:25-purple)
+![](https://img.shields.io/badge/Last_Updated-19_Mar_2026_11:20-purple)
 
 |     Roll No.     |         Name        |       Interns @     |         Placed @      |  Offer Letters Received | 
 |:----------------:|:--------------------|---------------------|-----------------------|:-----------------------:|
@@ -18,7 +18,7 @@
 | CB.EN.U4CYS22007 | ANASWARA SURESH M K |  Guidewire          |   Volvo Group India   |           ✅            |       
 | CB.EN.U4CYS22008 | ARUL SUJITH S       |                     |                       |                        | 
 | CB.EN.U4CYS22009 | ASRITA NL           |                     |                       |                        | 
-| CB.EN.U4CYS22010 | AADHITHYA SIVAKUMAR |                     |                       |                        | 
+| CB.EN.U4CYS22010 | AADHITHYA SIVAKUMAR | Renormalix Technologies |                   |            ✅            |       
 | CB.EN.U4CYS22011 | AKSHIT SINGH        |                     |                       |                        | 
 | CB.EN.U4CYS22012 | AVI NAIR            |                     |                       |                        | 
 | CB.EN.U4CYS22013 | B M SAI SATHVIK     |                     |                       |                        | 
@@ -57,7 +57,7 @@
 | CB.EN.U4CYS22048 | PALAKURTY ROOPAK NAGA VENKATA SREE SAI |   Cognizant   |                       |          ✅          | 
 | CB.EN.U4CYS22049 | PAVAN SHANMUKHA MADHAV GUNDA |  Medha Servo Drives  |   RSM, India   |           ✅            | 
 | CB.EN.U4CYS22050 | R M NAREN ADITHYA   |  Plum, LTM          |                       |          ✅            |                
-| CB.EN.U4CYS22051 | R SRUTHI            |  Skypoint           |                       |                        | 
+| CB.EN.U4CYS22051 | R SRUTHI            |  Skypoint           |                       |           ✅            |     
 | CB.EN.U4CYS22052 | RAHUL SHANKAR V     |                     |       IBM, India      |                        | 
 | CB.EN.U4CYS22053 | RATHNESH R          |                     |                       |                        | 
 | CB.EN.U4CYS22055 | RAMRAJ S            |    Amazon, India    |      C-DOT            |           ✅            |      
