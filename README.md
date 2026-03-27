@@ -13,8 +13,8 @@
 | CB.EN.U4CYS22002 | ADITHYA N S         |   Amazon, India     |                       |           ✅            | 
 | CB.EN.U4CYS22003 | AGILPRASANNA P      |                     |                       |                         | 
 | CB.EN.U4CYS22004 | AISHWARYA S         |   Honeywell         |                       |           ✅            |                    
-| CB.EN.U4CYS22005 | AMAL RITESSH A P    |                     |                       |                              | 
-| CB.EN.U4CYS22006 | ANANTH R            |                     |                       |                              | 
+| CB.EN.U4CYS22005 | AMAL RITESSH A P    |  NectarIT           |                       |                         | 
+| CB.EN.U4CYS22006 | ANANTH R            |                     |                       |                        | 
 | CB.EN.U4CYS22007 | ANASWARA SURESH M K |  Guidewire          |   Volvo Group India   |           ✅            |       
 | CB.EN.U4CYS22008 | ARUL SUJITH S       |                     |                       |                        | 
 | CB.EN.U4CYS22009 | ASRITA NL           |                     |                       |                        | 
